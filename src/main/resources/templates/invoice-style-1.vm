@@ -1,0 +1,11 @@
+<p>**************** $recieptHeading *************</p>
+<p><span style="background-color: #ff9900;">$vendorName</span></p>
+<p><span style="background-color: #ff9900;">$vendorAddress</span></p>
+<p><strong>**&nbsp; &nbsp; &nbsp; &nbsp; $optionalWelcomeMessage&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ****</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>**************** $endMessage ***************</p>
+<p>&nbsp;</p>
