@@ -10,7 +10,6 @@
 	<packaging>jar</packaging>
 
 	<name>InWise</name>
-	<description>Demo project With Spring Boot </description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -98,4 +97,7 @@
 	</build>
 
 
+	<description>Create Bulk Invoices uploading a CSV file
+</description>
+	<url>https://github.com/Akash-Mittal/inwise</url>
 </project>
